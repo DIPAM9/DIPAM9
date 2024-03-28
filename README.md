@@ -14,7 +14,7 @@ Bachelor of Technology in Computer Science Engineering, St. Thomas' College of E
 
 Let's Connect:
 - Email: dipamhazra1999@gmail.com
-- LinkedIn: https://www.linkedin.com/in/dipam-hazra-71743218b/.
+- LinkedIn: https://www.linkedin.com/in/dipam-hazra-71743218b/
 
 Thank you for visiting my profile, and I look forward to exploring the world of data together!
 
