@@ -6,7 +6,7 @@ Key Skills:
 - Machine learning algorithms and model development (Scikit-learn, TensorFlow, Keras)
 - Statistical analysis and hypothesis testing
 - Data visualization and storytelling (Matplotlib, Seaborn, Tableau)
-- Deep learning and neural networks
+- Deep learning and neural networks (PyTorch, Tensorflow)
 - Natural Language Processing (NLP) and text mining
 
 Education:
